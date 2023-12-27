@@ -11,7 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start ed page by mpages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https:/routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/h
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The `pages/api` director to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 
 To learn more about Next.js, a look at the following resources:
